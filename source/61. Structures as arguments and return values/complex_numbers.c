@@ -17,8 +17,8 @@ struct complex add(struct complex c1, struct complex c2)
 struct complex multiply(struct complex c1, struct complex c2)
 {
     struct complex product;
-    product.real = c1.real * c2.real - c1.img * c2.img;
-    product.img = c1.real * c2.img + c2.real * c1.img;
+    product.real = c1.real * c2.real - c1.img * c2.img; //ac - bd
+    product.img = c1.real * c2.img + c2.real * c1.img;  //ad + bc
     return product;
 }
 
