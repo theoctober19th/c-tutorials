@@ -1,0 +1,118 @@
+C Programming Tutorials in Nepali by Bikalpa Codes
+
+1. Introduction
+    1.1 Introduction of Influencer
+    1.2 Introduction of the Course
+    1.3 Introduction to C Programming
+
+2. Environment Setup
+    2.1 Installing GCC Compiler and VSCode Editor in Windows
+    2.2 Installing GCC Compiler and VSCode Editor in Linux (Ubuntu)
+    2.3 Installing GCC Compiler and VSCode Editor in macOS
+
+3. Getting Started with C Programming
+    3.1 Writing and Compiling Your First Program in C
+    3.2 Variables, Constants and Data Types
+    3.3 Reading from Keyboard & Writing to the Screen (Formatted I/O)
+    3.4 Coding Exercise (Formatted I/O)
+
+4. Operators
+    4.1 Arithmetic Operators and Type Conversion
+    4.2 Increment, Decrement, Compound Assignment & Undefined Behavior
+    4.3 The Math Library
+    4.4 Coding Exercise 2 (Arithmetic Operators and Math Library)
+    4.5 Relational, Logical and Conditional(Ternary) Operators
+    4.6 Bitwise Operators
+    4.7 Character Arithmetic and ASCII values
+    4.8 Coding Exercise 3 (Relational, Conditional, Bitwise Operators)
+    4.9 Precedence and Associativity of Operators
+
+5. Branching and Control Statements
+    5.1 If Else Statements
+    5.2 Switch Case Statements
+    5.3 Coding Exercise 4 (If Else Switch Statements)
+    5.4 Coding Exercise 5 (If Else Switch Statements)
+    5.5 For Loop
+    5.6 While and Do While Loop
+    5.7 Break and Continue Statements
+    5.8 Coding Exercise 6 (Loops and Break Statements)
+    5.9 Coding Exercise 7 (Sum of Series)
+
+6. Arrays
+    6.1 Introduction to Arrays
+    6.2 Nested Loops and Array Sorting
+    6.3 Coding Exercise 8 (Nested Loops/Array Sorting)
+    6.4 Matrices and Multidimensional Arrays
+    6.5 Coding Exercise 9 (Matrices and Multidimensional Arrays)
+
+7. Strings
+    7.1 Strings and Escape Sequences
+    7.2 The String Library (String Functions)
+    7.3 Array of Strings
+    7.4 Coding Exercise 10 (String Functions)
+    7.5 Coding Exercise 11 (String Functions)
+    7.6 Printing Patterns (Stars and Pyramids)
+    7.7 Coding Exercise 12 (Patterns Printing)
+
+8. Functions
+    8.1 Introduction to Functions
+    8.2 Passing Parameters to a Function
+    8.3 Returning Values from a Function
+    8.4 Coding Exercise 13 (Function Arguments and Return Values)
+    8.5 Coding Exercise 14 (Function Arguments and Return Values)
+    8.6 Passing Array to a Function
+    8.7 Coding Exercise 15 (Passing Array to a Function)
+    8.8 Recursion (Recursive Functions)
+    8.9 Coding Exercise 16 (Recursive Functions)
+
+9. Pointers
+    9.1 Introduction to Pointers
+    9.2 Address of (&) and Indirection (*) Operators
+    9.3 Passing Pointers to a Function
+    9.4 Returning Pointers from a Function
+    9.5 Coding Exercise 17 (Pointers)
+    9.6 Pointers Arithmetic and Comparison
+    9.7 Pointers and Arrays Relationship
+    9.8 Pointers and Multidimensional Arrays Relationship
+    9.9 Coding Exercise 18 (Pointers and Arrays)
+    9.10 Array of Pointers
+    9.11 Double Pointers (Pointer to Pointer)
+    9.12 Function Pointers (Pointer to Function)
+    9.13 Coding Exercise 19 (Array of Pointers and Function Pointer)
+
+10. Structures, Unions and Enumerations
+    10.1 Storage Classes (auto, register, static, external)
+    10.2 Structure Variables
+    10.3 Structure as Argument and Return Value
+    10.4 Coding Exercise 20 (Structure Variables)
+    10.5 Array of Structures
+    10.6 Nested Structures
+    10.7 Custom Type Definition (typedef keyword)
+    10.8 Coding Exercise 21 (Structures and Type Definition)
+    10.9 Structure Pointers
+    10.10 Self Referential Structures
+    10.11 Unions and Enumerations (enums)
+    10.12 Coding Exercise 22 (Structure Pointers, Unions, Enums)
+
+11. Memory Management
+    11.1 Memory Layout of a C Program
+    11.2 Void Pointers and Null Pointers
+    11.3 Dynamic Memory Allocation (Introduction)
+    11.4 Dynamic Allocation of Arrays and Strings
+    11.5 Dynamic Allocation of Structures
+    11.6 Dynamic Memory Allocation of Matrices
+    11.7 Reallocating Memory Dynamically
+    11.8 Dynamic Memory Allocation from Inside a Function
+    11.9 Coding Exercise 23 (Dynamic Memory Allocation)
+    11.10 Coding Exercise 24 (Dynamic Memory Allocation)
+
+12. The C Preprocessor
+    Videos Coming Soon
+
+13. Working with C Projects
+    Videos Coming Soon
+
+14. Working with files
+    Vidoes Coming Soon
+
+15. Other Topics Coming Soon.
