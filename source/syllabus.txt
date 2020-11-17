@@ -107,12 +107,21 @@ C Programming Tutorials in Nepali by Bikalpa Codes
     11.10 Coding Exercise 24 (Dynamic Memory Allocation)
 
 12. The C Preprocessor
-    Videos Coming Soon
+    12.1 Compilation and Execution Stages
+    12.2 Macros
+    12.3 Conditional Directives
+        #if #ifdef #undef #ifndef #elif #endif
+    12.4 Coding Exercise 25 (Macro Expansion)
+    12.5 The header files
+    12.6 Coding Exercise 26 (Header Files)
 
-13. Working with C Projects
-    Videos Coming Soon
+13. Working with files
+    13.1 File handling basics
+    13.2 Opening and reading files
+    13.3 Writing and appending to a file
 
-14. Working with files
-    Vidoes Coming Soon
 
-15. Other Topics Coming Soon.
+14. Working with C Projects
+    14.1 Project structure
+    14.3 Compilation and Linking
+    14.2 Makefiles
