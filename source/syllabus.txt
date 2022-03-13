@@ -104,24 +104,33 @@ C Programming Tutorials in Nepali by Bikalpa Codes
     11.7 Reallocating Memory Dynamically
     11.8 Dynamic Memory Allocation from Inside a Function
     11.9 Coding Exercise 23 (Dynamic Memory Allocation)
-    11.10 Coding Exercise 24 (Dynamic Memory Allocation)
+    11.10 Coding Exercise 24 (Dynamic Array)
 
 12. The C Preprocessor
-    12.1 Compilation and Execution Stages
-    12.2 Macros
-    12.3 Conditional Directives
-        #if #ifdef #undef #ifndef #elif #endif
-    12.4 Coding Exercise 25 (Macro Expansion)
-    12.5 The header files
+    12.1 The C Preprocessor
+    12.2 Macro Expansion (#define)
+    12.3 Conditional Compilation (Conditional preprocessor directives)
+    12.4 Coding Exercise 25 (Conditional Compilation)
+    12.5 Header File Inclusion (#include directive)
     12.6 Coding Exercise 26 (Header Files)
 
 13. Working with files
-    13.1 File handling basics
-    13.2 Opening and reading files
-    13.3 Writing and appending to a file
-
+    13.1 File handling fundamentals
+    13.2 Opening and closing files
+    13.3 Reading & Writing Text Files (Formatted, Character & Line IO)
+    13.4 Block I/O and Binary Files (fread and fwrite)
+    13.5 Coding Exercise 27 (File I/O)
+    13.6 Coding Exercise 28 (File I/O)
+    13.7 File Positioning (ftell, fseek, rewind)
+    13.8 File Operations (rename, remove)
+    13.9 Coding Exercise 29 (File Positioning)
 
 14. Working with C Projects
-    14.1 Project structure
-    14.3 Compilation and Linking
-    14.2 Makefiles
+    14.1 Makefiles
+    14.2 Coding Exercise 30 (Makefiles)
+    14.3 C Project structure
+
+15. Debugging and Error handling
+    15.1 Error handling
+    15.2 Trivial steps in debugging
+    15.3 The gdb debugger
