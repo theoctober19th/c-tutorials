@@ -8,7 +8,7 @@ void print_usage(){
     fprintf(stdout, "copy [options] source_filename destination_filename\n");
     fprintf(stdout, "\nOptions:\n");
     fprintf(stdout, "-h, --help            display this help message and exit\n");
-    fprintf(stdout, "-w, --warning         show warning if the ddestination already exists\n");
+    fprintf(stdout, "-w, --warning         show warning if the destination already exists\n");
     fprintf(stdout, "-v, --version         show the version of the command and exit\n");
     fprintf(stdout, "-n, --numbytes N      copy only first N bytes from source to destination\n");
 }
